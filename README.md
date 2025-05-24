@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
   Live Preview
 
-[Click here to view the live site](https://your-portfolio-link.com) <!-- Replace with actual link once deployed -->
+[Click here to view the live site](file:///C:/Users/adity/my%20portoflio/style.html) <!-- Replace with actual link once deployed -->
 
 
 
