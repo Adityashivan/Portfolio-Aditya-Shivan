@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -12,14 +12,14 @@ body {
   line-height: 1.6;
 }
 
-/* Container */
+
 .container {
   max-width: 960px;
   margin: auto;
   padding: 20px;
 }
 
-/* Header */
+
 header {
   background-color: #1e293b;
   color: #fff;
@@ -38,7 +38,7 @@ header p {
   color: #cbd5e1;
 }
 
-/* Section Titles */
+
 section h2 {
   font-size: 1.5rem;
   color: #1e293b;
@@ -47,7 +47,7 @@ section h2 {
   padding-bottom: 5px;
 }
 
-/* About Section */
+
 #about {
   text-align: center;
 }
@@ -58,7 +58,7 @@ section h2 {
   margin: 20px 0;
 }
 
-/* Skills List */
+
 #skills ul {
   list-style: none;
   display: flex;
@@ -75,7 +75,7 @@ section h2 {
   font-size: 0.9rem;
 }
 
-/* Projects */
+
 .project {
   background: #f1f5f9;
   padding: 15px;
@@ -84,7 +84,7 @@ section h2 {
   border-radius: 6px;
 }
 
-/* Resume Button */
+
 .btn {
   display: inline-block;
   padding: 10px 20px;
@@ -99,13 +99,13 @@ section h2 {
   background-color: #2563eb;
 }
 
-/* Contact */
+
 #contact p {
   font-size: 1rem;
   margin: 10px 0;
 }
 
-/* Footer */
+/
 footer {
   background-color: #1e293b;
   color: #cbd5e1;
